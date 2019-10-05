@@ -3,7 +3,7 @@ Random Password Generator with Copy to Clipboard Function
 
 ## Description 
 
-This project was created to show my skills using the newly learned Javascript material. The project objective was to create a responsive web page in which a random password could be generated using Javascript. The password was expected to have some user input such as password length which would be determined using user prompts. In addition, the project expectations included the function to copy the newly created password to the clipboard. I learned a great deal of new information creating this project and had many setbacks, some of which included determining how to randomized characters using a "for loop". The html/css on the project I found to be fairly simple to create which gave me some relief. This project has taught me that Javascript is an extremely difficult programming language and requires much practice.
+This project was created to show my skills using newly learned Javascript material. The project objective was to create a responsive web page in which a random password could be generated using Javascript. The password was expected to have some user input such as password length which would be determined using user prompts. In addition, the project expectations included the function to copy the newly created password to the clipboard. I learned a great deal of new information creating this project and had many setbacks, some of which included determining how to randomized characters using a "for loop". The html/css on the project I found to be fairly simple to create which gave me some relief. This project has taught me that Javascript is an extremely difficult programming language and requires much practice.
 
 ## Usage
 
