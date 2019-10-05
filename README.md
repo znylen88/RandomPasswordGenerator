@@ -8,7 +8,7 @@ This project was created to show my skills using newly learned Javascript materi
 ## Usage
 
 1) Page will prompt you to choose a password length (between 8-128 characters). Once chosen click "ok".
-2) Next you will be givin a series of questions regarding which characters to include in your password. Click "ok" on all alerts to use all available character sets.
+2) Next you will be given a series of questions regarding which characters to include in your password. Click "ok" on all alerts to use all available character sets.
 3) The page will load, and then click the "generate password" button which will create a password with the length specified in the first prompt.
 4) A random password will appear in the text area, you can then click the "copy password" button and have your newly created password copied to the clipboard.
 
