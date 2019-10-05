@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <!-- Website title -->
+    <title>Password Generator</title>
+</head>
+
+<body>
+    <!-- Web responisve -->
+    <div class="row">
+        <div class="title" class="col-xs-12, col-sm-12, col-md-12, col-lg-12">
+            <h1>Password Generator</h1>
+        </div>
+    </div><!-- Main content-->
+    <div class="container">
+        <div class="box1">
+
+            <h2>Generate a Password</h2>
+        </div>
+        <div class="division"></div>
+        <!--Where created password is displayed-->
+        <div class="box">
+            <input type="text" id="display">
+        </div>
+        <div class="division"></div>
+        <div class="container2">
+            <!-- Generate and copy buttons -->
+            <button onclick="generate()" class="passbutton">Generate Password</button>
+            <button onclick="copyPassword()" class="copybutton">Copy to Clipboard</button>
+        </div>
+    </div>
+    </div>
+    <!-- Link to Javascript page -->
+    <script src="script.js"></script>
+</body>
